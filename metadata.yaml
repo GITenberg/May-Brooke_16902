@@ -1,0 +1,27 @@
+_repo: May-Brooke_16902
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dorsey, Anna Hanson
+    birthdate: 1815
+    deathdate: 1896
+    gutenberg_agent_id: '7006'
+    url: http://www.gutenberg.org/2009/agents/7006
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Hanson_Dorsey
+description: ''
+gutenberg_issued: '2005-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Catholics -- Fiction'
+title: May Brooke
+url: http://www.gutenberg.org/ebooks/16902
